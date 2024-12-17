@@ -80,12 +80,21 @@ dictionary-app/
 
 ---
 
+## 🧑‍💻 Author
+
+- **Your Name**  
+- GitHub: [Fathima-Sameerah](https://github.com/Fathima-Sameerah)
+
 ## 🎨 Screenshot
 
 ![image](https://github.com/user-attachments/assets/10143b69-1dd7-4ed7-ac6f-afbfcc0c7784)
-*Replace this placeholder with an actual screenshot of your app.*
 
 ---
+
+## 🚀 Live demo
+https://sam-english-dictionary.netlify.app/
+
+
 
 ## 💡 Future Improvements
 
@@ -100,25 +109,3 @@ dictionary-app/
 - **Your Name**  
 - GitHub: [Fathima-Sameerah](https://github.com/Fathima-Sameerah)  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Live demo
-https://sam-english-dictionary.netlify.app/
